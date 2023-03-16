@@ -9,6 +9,6 @@ Feature extraction and fine tuning of the architecture was done to get benchmark
 
 
 
-## Confusion Matrix Screenshot -
+## Confusion Matrix -
 
 <div style="margin-left: 50%;"><img src="confusion matrix.png" alt="confusion matrix" width="60%" height="60%"></div>
